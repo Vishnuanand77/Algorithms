@@ -1,3 +1,3 @@
 # Algorithms
 
-College given programs related to algorithms
+Implementation of college given programs related to algorithms
